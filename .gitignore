@@ -1,0 +1,16 @@
+# Compiled binaries and build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+!.env.example
